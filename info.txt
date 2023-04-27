@@ -1,0 +1,9 @@
+Steps
+* react şablon proje üretildi
+* git oluşturuldu
+* github a push edildi
+* netlify de yayınlandı
+* şablon projede temizlik yapıldı
+* github a push edildi 
+* netlify de yayınlandı
+* 
