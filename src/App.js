@@ -1,7 +1,7 @@
 import './App.css';
-import Home from './pages/Vans/Home';
-import About from './pages/Vans/About';
-import Vans from './pages/Vans';
+import Home from './pages/Home';
+import About from './pages/About';
+import Vans from './pages/Vans/Vans';
 import VanDetail from './pages/Vans/VanDetail';
 import Layout from './components/Layout';
 import Dashboard from './pages/Host/Dashboard';
