@@ -44,7 +44,7 @@ export default function HostVanDetail() {
 
                 <nav className="host-van-detail-nav">
                     <NavLink
-                        to=".."
+                        to="."
                         end
                         style={({ isActive }) => isActive ? activeStyles : null}
                     >
@@ -63,7 +63,7 @@ export default function HostVanDetail() {
                         Photos
                     </NavLink>
                 </nav>
-                <Outlet />
+                <Outlet context={{ currentVan }} />
             </div>
         </section>
     )
